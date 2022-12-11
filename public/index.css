@@ -1,0 +1,13 @@
+*{
+    font-family: 'Space Mono';
+}
+
+h1, h2 {
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+div {
+    margin: 2em;
+}
