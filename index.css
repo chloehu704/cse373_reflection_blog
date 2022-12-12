@@ -9,5 +9,9 @@ h1, h2 {
 }
 
 div {
-    margin: 2em;
+    margin: 2em 14em 2em 14em;
+}
+
+p {
+    font-size: 1rem;
 }
